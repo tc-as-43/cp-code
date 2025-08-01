@@ -4,7 +4,6 @@ using namespace std;
 #define fastio ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr)
 #define fileio freopen("input.txt", "r", stdin); freopen("output.txt", "w", stdout)
  
-int MOD=1e9+7;
 #define int long long int
 #define ll long long
 #define ld long double
